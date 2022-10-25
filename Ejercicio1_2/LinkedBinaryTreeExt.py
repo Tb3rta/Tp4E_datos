@@ -1,0 +1,4 @@
+
+
+class LinkedBinaryTreeExt(LinkedBinaryTree):
+    pass
